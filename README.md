@@ -2,6 +2,6 @@
 
 Convulutional Neural Network type autoencoder to reconstruct noisy images
 
-![plot]()
+![plot](screenshots/autoencoder.jpg)
 
 Dataset - Mnist
