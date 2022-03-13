@@ -1,1 +1,1 @@
-# CNN_Keras_Autoencoder_noise_removal
+# CNN_Autoencoder_image_noise_removal
